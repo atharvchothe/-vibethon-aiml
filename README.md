@@ -71,7 +71,7 @@ Prompt Engineering:
 
 ## 🌐 Live Demo
 
-[https://69df596526dd522d28aeb2e2--verdant-duckanoo-dfc1e1.netlify.app/]
+[https://69df5c74bce27f175fe30f66--peppy-scone-2a9e1b.netlify.app/]
 
 
 ## 🏁 Hackathon Project
